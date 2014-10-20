@@ -1,8 +1,11 @@
-#Ignore everything
-*
-
-#but...
-!.gitignore
-!/src/
-!/res/
-!AndroidManifest.xml
+#Ignore
+bin/
+gen/
+libs/
+nbandroid/
+private
+ant.properties
+build.xml
+local.properties
+proguard-project.txt
+project.properties
