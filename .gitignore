@@ -3,6 +3,6 @@
 
 #but...
 !.gitignore
-!src/
-!res/
+!/src/
+!/res/
 !AndroidManifest.xml
