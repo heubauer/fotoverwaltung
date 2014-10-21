@@ -4,5 +4,6 @@
     <item android:id="@+id/Picy"
       android:title="@string/shoot"
       android:orderInCategory="100"
+      android:onClick="onClickyClick"
       android:showAsAction="never" />
 </menu>
