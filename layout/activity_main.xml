@@ -10,7 +10,7 @@
     android:orientation="vertical"
     tools:context=".Main">
     
-    <ListView xmlns:android="http://schemas.android.com/apk/res/android"
+     <ListView xmlns:android="http://schemas.android.com/apk/res/android"
         android:id="@+id/headerList"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"  />

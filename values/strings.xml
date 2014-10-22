@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <string name="app_name">Fotoverwaltung</string>
-    <string name="shoot">Shooty a Picy</string>
+    <string name="picture">Take a Picture</string>
     <string name="filename">Dateiname</string>
     <string name="date">Datum</string>
+    <string name="title_activity_maps">Map</string>
+
 </resources>
