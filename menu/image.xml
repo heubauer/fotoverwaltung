@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context=".Fotoverwaltung" >
+    tools:context=".ImageActivity" >
+    <!-- No Items at the beginning...
     <item android:id="@+id/Camera"
       android:title="@string/picture"
       android:orderInCategory="100"
-      android:showAsAction="never" />
+      android:showAsAction="never" /> -->
 </menu>
