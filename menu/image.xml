@@ -2,9 +2,17 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     tools:context=".ImageActivity" >
-    <!-- No Items at the beginning...
-    <item android:id="@+id/Camera"
-      android:title="@string/picture"
+    
+    <item android:id="@+id/Map"
+      android:title="@string/map"
       android:orderInCategory="100"
-      android:showAsAction="never" /> -->
+      android:showAsAction="never" />
+    <item android:id="@+id/Share"
+      android:title="@string/share"
+      android:orderInCategory="200"
+      android:showAsAction="never" />
+    <item android:id="@+id/Export"
+      android:title="@string/export"
+      android:orderInCategory="300"
+      android:showAsAction="never" />
 </menu>
